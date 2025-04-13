@@ -1,0 +1,24 @@
+{
+    "Employees": [
+        {
+            "ID": 1,
+            "Name": "Leia Organa",
+            "Role": "Princess"
+        },
+        {
+            "ID": 2,
+            "Name": "Luke Skywalker",
+            "Role": "Jedi"
+        },
+        {
+            "ID": 3,
+            "Name": "Han Solo",
+            "Role": "Scoundrel"
+        },
+        {
+            "ID": 4,
+            "Name": "Chewbacca",
+            "Role": "Co-pilot"
+        }
+    ]
+}

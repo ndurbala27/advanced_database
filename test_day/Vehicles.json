@@ -1,0 +1,24 @@
+{
+    "Vehicles": [
+        {
+            "ID": 1,
+            "Name": "X-Wing",
+            "Type": "Fighter"
+        },
+        {
+            "ID": 2,
+            "Name": "Falcon",
+            "Type": "Transport"
+        },
+        {
+            "ID": 3,
+            "Name": "Y-Wing",
+            "Type": "Fighter"
+        },
+        {
+            "ID": 4,
+            "Name": "TIE",
+            "Type": "Fighter"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "customers": [
+        {
+            "id": 1,
+            "fname": "wiley",
+            "lname": "coyote",
+            "status": "platinum",
+            "items": 567
+        },
+        {
+            "id": 2,
+            "fname": "elmer",
+            "lname": "fudd",
+            "status": "gold",
+            "items": 234
+        },
+        {
+            "id": 3,
+            "fname": "jimmy",
+            "lname": "dean",
+            "status": "silver",
+            "items": 0
+        },
+        {
+            "id": 4,
+            "fname": "john",
+            "lname": "jacob",
+            "status": "bronze",
+            "items": 0
+        }
+    ]
+}

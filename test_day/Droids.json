@@ -1,0 +1,29 @@
+{
+    "Droids": [
+        {
+            "ID": 1,
+            "Name": "R2-D2",
+            "Type": "Astromech"
+        },
+        {
+            "ID": 2,
+            "Name": "C-3PO",
+            "Type": "Protocol"
+        },
+        {
+            "ID": 3,
+            "Name": "R5-D4",
+            "Type": "Astromech"
+        },
+        {
+            "ID": 4,
+            "Name": "Gonk",
+            "Type": "Power"
+        },
+        {
+            "ID": 5,
+            "Name": "MSE-6",
+            "Type": "Repair"
+        }
+    ]
+}

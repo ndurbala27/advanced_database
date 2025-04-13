@@ -1,0 +1,20 @@
+3 tables
+
+food, rentals, customers
+
+combo
+main
+side
+drink
+
+rentals
+vin
+make
+model
+status
+
+customers
+id
+fname
+lname
+status
